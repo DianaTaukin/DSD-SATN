@@ -1,5 +1,4 @@
 torch
-torchivision
 prettytable
 neural_renderer_pytorch
 chumpy
